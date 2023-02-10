@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Mod_IO",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"FunctionalTesting",
+				"Engine",
+				"Slate",
+				"SlateCore",
+				"UMG"
+			]
+		}
+	]
+}
